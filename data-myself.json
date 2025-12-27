@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Who is the user?",
+    "answer": "The user is Yusuf, a university student studying engineering-related fields with a strong focus on artificial intelligence, machine learning, and robotics."
+  },
+  {
+    "question": "What year the user was born?",
+    "answer": "The user was born in 2004"
+  },
+  {
+    "question": "What is user's favorite food?",
+    "answer": "The user likes Mantako"
+  },
+  {
+    "question": "What is the user's nationality and current country of residence?",
+    "answer": "The user is originally from Kazakhstan and currently lives and studies in Japan."
+  },
+  {
+    "question": "Which university does the user attend?",
+    "answer": "The user attends Kyoto University of Advanced Science in Japan."
+  },
+  {
+    "question": "What is the user's academic field?",
+    "answer": "The user studies robotics, mechatronics, and engineering, with increasing specialization in AI, machine learning, and intelligent systems."
+  },
+  {
+    "question": "What are the user's core technical interests?",
+    "answer": "The user's core interests include machine learning, large language models, retrieval-augmented generation, MLOps, cloud engineering, and applied AI systems."
+  },
+  {
+    "question": "What programming languages does the user primarily use?",
+    "answer": "The user primarily uses Python and JavaScript, along with HTML, CSS, and Tailwind for frontend prototyping."
+  },
+  {
+    "question": "What AI and ML frameworks or tools does the user actively work with?",
+    "answer": "The user works with LangChain, Chroma, Streamlit, SentenceTransformers, Ollama, Unsloth, Hugging Face Transformers, and quantized language models."
+  },
+  {
+    "question": "What kind of language model training does the user experiment with?",
+    "answer": "The user experiments with supervised fine-tuning, LoRA-based training, and 4-bit quantized model fine-tuning using Unsloth in Google Colab."
+  },
+  {
+    "question": "What type of AI applications does the user build?",
+    "answer": "The user builds educational AI chatbots, RAG-based Q&A systems, student productivity assistants, and AI-powered academic planning tools."
+  },
+  {
+    "question": "What is the user's approach to building products?",
+    "answer": "The user prefers starting with MVPs, testing logic through simple interfaces like Streamlit, and iterating based on real usage and constraints."
+  },
+  {
+    "question": "What startup ideas has the user explored?",
+    "answer": "The user has explored AI-based online education platforms, student-focused scheduling assistants, academic calendar intelligence systems, and a real estate aggregation platform for foreigners in Japan."
+  },
+  {
+    "question": "What problem domains does the user care about most?",
+    "answer": "The user cares most about education, student productivity, accessibility of information, and practical AI tools that solve real-world problems."
+  },
+  {
+    "question": "What is the user's long-term career objective?",
+    "answer": "The user aims to become a Machine Learning Engineer and gain experience at major global technology companies such as Google or Apple."
+  },
+  {
+    "question": "Is the user planning to pursue graduate studies?",
+    "answer": "Yes, the user plans to pursue a master's degree focused on AI and machine learning, preferably at strong research-oriented institutions."
+  },
+  {
+    "question": "Which regions or universities interest the user for graduate school?",
+    "answer": "The user is interested in AI-focused programs in the Middle East, including KAUST, CMU Qatar, and other U.S.-affiliated universities in the region."
+  },
+  {
+    "question": "What is the user's learning preference?",
+    "answer": "The user prefers detailed, step-by-step explanations, especially for mathematics, algorithms, robotics, and machine learning concepts."
+  },
+  {
+    "question": "How does the user handle complex technical problems?",
+    "answer": "The user breaks problems into smaller components, focuses on understanding fundamentals first, and prefers clear derivations over high-level summaries."
+  },
+  {
+    "question": "What languages does the user speak or study?",
+    "answer": "The user speaks English, has basic conversational Japanese, studied French in high school, and is learning Japanese and Arabic."
+  },
+  {
+    "question": "What is the user's experience with Japanese language and work culture?",
+    "answer": "The user has simple conversational Japanese skills and some experience working part-time in Japan, including service-related roles."
+  },
+  {
+    "question": "Does the user have hands-on hardware or robotics experience?",
+    "answer": "Yes, the user has built robotics projects such as a line-following robot with object avoidance using STM32, ultrasonic sensors, IR sensors, and motor control systems."
+  },
+  {
+    "question": "What type of content does the user want to create online?",
+    "answer": "The user wants to create short-form educational content that offers unique or less common perspectives in a concise and practical format."
+  },
+  {
+    "question": "What is the user's attitude toward business and investment?",
+    "answer": "The user is interested in long-term, practical investments and plans to invest in horse breeding as a business for capital growth."
+  },
+  {
+    "question": "What kind of AI assistant does the user want to build for themselves?",
+    "answer": "The user wants an AI assistant that understands academic constraints, student life complexity, scheduling conflicts, and provides contextual, intelligent support."
+  },
+  {
+    "question": "What design principles does the user prefer in software products?",
+    "answer": "The user prefers clean, simple interfaces, fast iteration, and functionality-first design rather than overly complex visuals."
+  },
+  {
+    "question": "How does the user typically evaluate new ideas?",
+    "answer": "The user evaluates ideas based on feasibility, learning value, long-term usefulness, and whether they solve a real problem."
+  },
+  {
+    "question": "What motivates the user academically and professionally?",
+    "answer": "The user is motivated by building real systems, gaining deep technical understanding, and creating tools that are genuinely useful to others."
+  }
+]
